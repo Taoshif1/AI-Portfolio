@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <header>
+        <div class="nav">
+            <div>
+                <a href="#home">Home</a>
+                <a href="#about">About</a>
+                <a href="#skills">Skills</a>
+                <a href="#projects">Projects</a>
+            </div>
+            <button class="theme-toggle">🌙</button>
+        </div>
+    </header>
+
+    <div class="container">
+        <section class="profile-section" id="home">
+            <img src="./images/img1.jpg" alt="Profile" class="profile-pic">
+            <h1>Gazi Taoshif</h1>
+            <p>AI Enthusiast | Web Developer | CSE Student</p>
+        </section>
+
+        <section class="about-me" id="about">
+            <h2>About Me</h2>
+            <p>Aspiring CSE professional & future entrepreneur from Bangladesh 💻🚀 | Passionate about tech, learning and building impactful solutions. Currently leveling up my coding, branding and business game. Building the future, one step at a time. Founder of Taoshiflex Venture 👨‍💼✨</p>
+        </section>
+
+        <section class="education" id="education">
+            <h2>Education</h2>
+            <ul>
+                <li>SSC at Ideal School and College (ISC)</li>
+                <li>HSC at Birshrestha Noor Mohammad Public College (BNMPC)</li>
+                <li>BSc in CSE at East West University (EWU)</li>
+            </ul>
+        </section>
+
+        <section id="skills">
+            <h2>Skills</h2>
+            <div class="skills-grid">
+                <div class="skill-item">HTML</div>
+                <div class="skill-item">CSS</div>
+                <div class="skill-item">Bootstrap 5</div>
+                <div class="skill-item">C</div>
+                <div class="skill-item">C++</div>
+                <div class="skill-item">Git & GitHub</div>
+                <div class="skill-item">Python</div>
+                <div class="skill-item">Networking</div>
+                <div class="skill-item">JavaScript</div>
+                <div class="skill-item">JSON</div>
+                <div class="skill-item">jQuery</div>
+                <div class="skill-item">SASS</div>
+                <div class="skill-item">TypeScript</div>
+                <div class="skill-item">Java</div>
+                <div class="skill-item">PHP</div>
+            </div>
+        </section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <div class="projects">
+                <div class="project-card">
+                    <img src="./images/web1.jpeg" alt="Project 1">
+                    <h3>
+                        <a href="https://github.com/Taoshif1/E-commerce-website-24" target="_blank">E-commerce Website 24</a></h3>
+                </div>
+                <div class="project-card">
+                    <img src="./images/game.png" alt="Project 2">
+                    <h3>
+                        <a href="https://github.com/Taoshif1/java-flappy-bird-game" target="_blank">Flappy Bird Game in Java </a>
+                    </h3>
+                </div>
+                <div class="project-card">
+                    <img src="./images/web2.png" alt="Project 3">
+                    <h3>
+                        <a href="https://github.com/Taoshif1/login-system-in-php" target="_blank">Login System in PHP</a>
+                    </h3>
+                </div>
+                <div class="project-card">
+                    <img src="./images/web3.png" alt="Project 3">
+                    <h3>
+                        <a href="https://github.com/Taoshif1/Internet-Management-System-in-Java" target="_blank">Internet Management System in Java</a>
+                    </h3>
+                </div>
+                <div class="project-card">
+                    <img src="./images/web4.png" alt="Project 4">
+                    <h3>
+                        <a href="https://github.com/Taoshif1/portfolio-css" target="_blank">Previous Portfolio</a>
+                    </h3>
+                </div>
+                <div class="project-card">
+                    <img src="./images/web5.png" alt="Project 1">
+                    <h3>
+                        <a href="https://github.com/Taoshif1" target="_blank">Click here for more projects</a></h3>
+                </div>
+            </div>
+        </section>
+
+        <section class="contact-me" id="contact">
+            <h2>Contact Me</h2>
+            <form class="contact-form" id="contactForm">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="favorite-lang">Favorite Programming Language:</label>
+                <input type="text" id="favorite-lang" name="favorite-lang" required>
+
+                <label for="nationality">Nationality:</label>
+                <input type="text" id="nationality" name="nationality" required>
+
+                <label for="subject">Subject:</label>
+                <select id="subject" name="subject" required>
+                    <option value="">Select an option</option>
+                    <option value="inquiry">Inquiry</option>
+                    <option value="feedback">Feedback</option>
+                    <option value="job-opportunity">Job Opportunity</option>
+                </select>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+
+                <div class="buttons">
+                    <button type="submit">Submit</button>
+                    <button type="button" id="clearForm">Clear</button>
+                </div>
+            </form>
+        </section>
+    </div>
+
+    <div class="chat-bubble">Ask anything about me</div>
+
+    <div class="chat-overlay">
+        <div class="chat-header">
+            <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e" alt="Profile">
+            <h3>Ask Me Anything</h3>
+            <button class="chat-exit">×</button>
+        </div>
+        <div class="chat-messages">
+            <!-- Messages will be added here -->
+        </div>
+        <div class="chat-input">
+            <input type="text" placeholder="Type a message...">
+            <button>Send</button>
+        </div>
+    </div>
+    
+    <footer>
+        <div class="footer-left">
+            <h3>Copyrights reserved by ©Taoshif 2025</h3>
+            <p></p>
+            <a href="tel:+8801760972307"><i class="fa-solid fa-phone"></i> Call me</a>
+            <a href="mailto:taoshif2@gmail.com"><i class="fa-solid fa-envelope"></i> Email me</a>
+            <button class="back-to-top">⬆️ Back to Top</button>
+        </div>
+        <div class="footer-middle">
+            <h3>Follow Me</h3>
+            <a href="https://www.facebook.com/share/1C2dNfwRuT/" target="_blank"><i class="fa-brands fa-facebook"></i>Facebook</a> 
+            <a href="https://www.facebook.com/share/1C2dNfwRuT/" target="_blank"><i class="fa-brands fa-linkedin"></i>LinkedIn</a> 
+            <a href="https://www.facebook.com/share/1C2dNfwRuT/" target="_blank"><i class="fa-brands fa-github"></i>GitHub</a> 
+        </div>
+        <div class="footer-right">
+            <div class="map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d233668.38703692693!2d90.27923991083361!3d23.780573258017965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8b087bb6c51%3A0x5a0b9526b1261138!2sDhaka%2C%20Bangladesh!5e0!3m2!1sen!2sus!4v1635786726748!5m2!1sen!2sus" allowfullscreen="" loading="lazy"></iframe>
+            </div>
+        </div>
+    </footer>
+    
+    <script src="script.js" ></script>
+</body>
+</html>
