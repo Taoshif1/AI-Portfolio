@@ -5,7 +5,7 @@ Welcome to my **Modern Portfolio Website** — a sleek, responsive and personal 
 ---
 
 ## 🚀 Live Preview
-🔗 *[Check the live version here]([https://your-live-site-link.com](https://taoshif1.github.io/AI-Portfolio/))*
+🔗 *[Check the live version here] ([https://your-live-site-link.com](https://taoshif1.github.io/AI-Portfolio/))*
 
 ---
 
