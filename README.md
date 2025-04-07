@@ -45,7 +45,7 @@ Welcome to my **Modern Portfolio Website** — a sleek, responsive and personal 
 | 🔐 PHP Login System | [View Repo](https://github.com/Taoshif1/login-system-in-php) |
 | 🌐 Internet Management System | [View Repo](https://github.com/Taoshif1/Internet-Management-System-in-Java) |
 | 🖥️ Previous Portfolio | [View Repo](https://github.com/Taoshif1/portfolio-css) |
-| ➕ More Projects | [Explore All](https://github.com/Taoshif1) |
+| ➕ More Projects | [Explore All]([https://github.com/Taoshif1](https://github.com/Taoshif1?tab=repositories)) |
 
 ---
 
