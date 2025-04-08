@@ -62,7 +62,7 @@ async function sendMessage() {
                 body: JSON.stringify({
                     contents: [{
                         parts: [{
-                            text: `User_message:${messageText}. Reply naturally to the user message and if required then answer based on: ${myDescription} or just simply give friendly reply. And reply in a way that John Doe is himself talking. Reply in short sentences`
+                            text: `User_message:${messageText}. Reply naturally to the user message and if required then answer based on: ${myDescription} or just simply give friendly reply. And reply in a way that Gazi Taoshif is himself talking. Reply in short sentences`
                         }]
                     }]
                 })
