@@ -27,10 +27,10 @@ Welcome to my **Modern Portfolio Website** — a sleek, responsive and personal 
 
 - HTML5
 - CSS3
+- JavaScript
 - Font Awesome
+- VS Code
 - Responsive Web Design
-- Basic JavaScript (for interactivity like form & chat)
-- Git & GitHub
 
 ---
 
@@ -55,7 +55,7 @@ Hey, I'm **Gazi Taoshif** — a CSE student and passionate learner from Banglade
 Currently building my tech skills, one project at a time. I love mixing **creativity, code and business** to build something impactful.
 
 - Founder of **Taoshiflex Venture**
-- Learning AI, Web Dev, MERN and more
+- Learning AI, MERN and more
 - Dream: Run my own global tech company someday 💡🌍
 
 ---
