@@ -1,11 +1,11 @@
 # 🌐 Modern Portfolio - Gazi Taoshif
 
-Welcome to my **Modern Portfolio Website** — a sleek, responsive and personal digital space that showcases who I am, what I do and what I’m building. From projects to skills, this site is my online resume crafted with love and code 💻❤️.
+Welcome to my **Modern Portfolio Website** — a responsive personal portfolio showcasing who I am, what I do, and what I’m building.
 
 ---
 
 ## 🚀 Live Preview
-🔗 *[Check the live version here] ([https://your-live-site-link.com](https://taoshif1.github.io/AI-Portfolio/))*
+🔗 [View the live portfolio](https://taoshif1.github.io/AI-Portfolio/)
 
 ---
 
@@ -13,9 +13,9 @@ Welcome to my **Modern Portfolio Website** — a sleek, responsive and personal 
 
 - 💼 **About Me** section
 - 🎓 **Education** details
-- 🧠 **Skills** grid 
+- 🧠 **Skills** grid
 - 🚧 **Project Showcase** with GitHub links
-- 📬 **Contact Form** with input fields & dropdown
+- 📬 **Contact Form**
 - 💬 **Interactive Chat Bubble UI**
 - 🌙 **Dark Mode Toggle**
 - 📍 **Embedded Google Map**
@@ -29,10 +29,7 @@ Welcome to my **Modern Portfolio Website** — a sleek, responsive and personal 
 - CSS3
 - JavaScript
 - Font Awesome
-- VS Code
 - Responsive Web Design
-
----
 
 ---
 
@@ -51,37 +48,22 @@ Welcome to my **Modern Portfolio Website** — a sleek, responsive and personal 
 
 ## 🙋‍♂️ About Me
 
-Hey, I'm **Gazi Taoshif** — a CSE student and passionate learner from Bangladesh 🇧🇩.  
-Currently building my tech skills, one project at a time. I love mixing **creativity, code and business** to build something impactful.
+Hey, I'm **Gazi Taoshif** — a CSE student and developer from Bangladesh. I build web products and business-focused digital experiences while continuing to grow across software engineering and AI.
 
-- Founder of **Taoshiflex Venture**
-- Learning AI, MERN and more
-- Dream: Run my own global tech company someday 💡🌍
+- Founder of **[Taoshiflex Studio](https://taoshiflexstudio.me)**
+- Full-stack web development, frontend engineering, and product building
+- GitHub: [Taoshif1](https://github.com/Taoshif1)
 
 ---
 
-## 📬 Contact Me
+## 📬 Work With Me
 
-Got ideas, feedback or opportunities? Hit me up
+For websites, e-commerce systems, custom web applications, or development work, visit **[Taoshiflex Studio](https://taoshiflexstudio.me)**.
 
-📧 taoshif2@gmail.com  
----
-
-## 🌟 Show Some Love
-
-If you like this project, don't forget to:
-
-- ⭐ Star this repo
-- 🛠️ Fork & customize it for your own portfolio
-- 🤝 Connect with me online!
+📧 taoshif2@gmail.com
 
 ---
 
 ## 📢 License
 
 This project is open-source and free to use for learning purposes.
-
----
-
-## **Let’s build the future, one line of code at a time! 👨‍💻✨**
-
